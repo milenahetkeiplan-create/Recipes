@@ -6,6 +6,7 @@ Das ist ein Übungs Projekt in dem, ich eine einfache Website über Rezepte erst
 # Gelerntes
 Nach diesem Projekt sollte ich ohne Probleme folgendes können:
 - Eine HTML Boilerplate erstellen
+- Eine gute Ordnerstrucktur anwenden können
 - Einen Text leicht bearbeiten (Paragraphen, Bold, Italic, usw.)
 - elative und absolute links erstellen können.
 - Bilder einfügen können
